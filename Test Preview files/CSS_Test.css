@@ -1,0 +1,12 @@
+h1{
+  border: 1;
+}
+
+.testDiv{
+  border: 1;
+}
+
+#test{
+  border: 1;
+  color: rgb(red, green, blue)
+}
