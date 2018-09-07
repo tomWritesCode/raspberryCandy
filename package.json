@@ -1,0 +1,22 @@
+{
+    "name": "rasberryCandy",
+    "displayName": "rasberryCandy",
+    "description": "Pastel/Neon colour theme on an Eigengrau background.",
+    "version": "0.0.1",
+    "publisher": "<tomWritesCode />",
+    "engines": {
+        "vscode": "^1.26.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "rasberryCandy",
+                "uiTheme": "vs-dark",
+                "path": "./themes/rasberryCandy-color-theme.json"
+            }
+        ]
+    }
+}
