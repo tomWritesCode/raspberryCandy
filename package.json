@@ -1,9 +1,9 @@
 {
-    "name": "rasberryCandy",
-    "displayName": "rasberryCandy",
+    "name": "raspberryCandy",
+    "displayName": "raspberryCandy",
     "description": "Pastel/Neon colour theme on an Eigengrau background.",
     "version": "0.0.1",
-    "publisher": "<tomWritesCode />",
+    "publisher": "tomWritesCode",
     "engines": {
         "vscode": "^1.26.0"
     },
@@ -13,9 +13,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "rasberryCandy",
+                "label": "raspberryCandy",
                 "uiTheme": "vs-dark",
-                "path": "./themes/rasberryCandy-color-theme.json"
+                "path": "./themes/raspberryCandy-color-theme.json"
             }
         ]
     }
