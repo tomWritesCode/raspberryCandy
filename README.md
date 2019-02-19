@@ -6,7 +6,7 @@ ___
 
 ### Created by **[@tomWritesCode](https://twitter.com/tomWritesCode)**
 
-### This them was inspired by my love of dark coding themes, Sarah Drasner's Night Owl theme, Wes Bos' Cobalt2 theme and Scott Tolinski's LevelUp Official Theme.
+### This theme was inspired by my love of dark coding themes, Sarah Drasner's Night Owl theme, Wes Bos' Cobalt2 theme and Scott Tolinski's LevelUp Official Theme.
 
 ### The name of this comes from ONA Cafe in Marrickville in Sydney, Australia. My favorite roast they have is called Raspberry Candy and I have had way too many of those while at that cafe. 
 
@@ -16,5 +16,14 @@ ___
 
 ## Find me on Twitter: **[@tomWritesCode](https://twitter.com/tomWritesCode)**
 
+### Check out the source code on my **[GitHub](https://github.com/tomWritesCode/raspberryCandy)**
 
-![raspberryCandy Logo](Artworks/fullLogo.jpg?thumbnail "raspberryCandy Logo")
+![Screenshot](https://res.cloudinary.com/tomwritescode/image/upload/v1550563515/Screenshot2.png)
+
+___
+
+![Marketplace](https://res.cloudinary.com/tomwritescode/image/upload/v1550563511/Screenshot.png)
+
+___
+
+![raspberryCandy Logo](https://res.cloudinary.com/tomwritescode/image/upload/v1550563507/fullLogo.jpg)

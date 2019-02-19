@@ -1,5 +1,5 @@
 {
-    "name": "raspberryCandy",
+    "name": "raspberrycandy",
     "displayName": "raspberryCandy",
     "version": "0.0.1",
     "publisher": "tomWritesCode",
@@ -17,7 +17,7 @@
     "categories": [
         "Themes"
     ],
-    "icon": "Artworks/iconLogo.jpg",
+    "icon": "Artworks/fullLogo.jpg",
     "galleryBanner": {
         "color": "#16161d",
         "theme": "dark"
@@ -32,5 +32,4 @@
         ]
     },
     "preview": true
-
 }
