@@ -1,15 +1,27 @@
 {
     "name": "raspberryCandy",
     "displayName": "raspberryCandy",
-    "description": "Pastel/Neon colour theme on an Eigengrau background.",
     "version": "0.0.1",
     "publisher": "tomWritesCode",
+    "description": "Pastel/Neon colour theme.",
+    "author": {
+        "name": "Thomas Whitaker - tomWritesCode"
+    },
     "engines": {
         "vscode": "^1.26.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tomWritesCode/raspberryCandy"
     },
     "categories": [
         "Themes"
     ],
+    "icon": "Artworks/iconLogo.jpg",
+    "galleryBanner": {
+        "color": "#16161d",
+        "theme": "dark"
+    },
     "contributes": {
         "themes": [
             {
@@ -18,5 +30,7 @@
                 "path": "./themes/raspberryCandy-color-theme.json"
             }
         ]
-    }
+    },
+    "preview": true
+
 }

@@ -1,13 +1,20 @@
 # README
-## This is the README for your extension "raspberryCandy"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## Thanks for checking out raspberryCandy, Hope you like it. 
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+___
 
-**Enjoy!**
+### Created by **[@tomWritesCode](https://twitter.com/tomWritesCode)**
+
+### This them was inspired by my love of dark coding themes, Sarah Drasner's Night Owl theme, Wes Bos' Cobalt2 theme and Scott Tolinski's LevelUp Official Theme.
+
+### The name of this comes from ONA Cafe in Marrickville in Sydney, Australia. My favorite roast they have is called Raspberry Candy and I have had way too many of those while at that cafe. 
+
+___
+
+## If you like the theme let me know, I would love to hear it!
+
+## Find me on Twitter: **[@tomWritesCode](https://twitter.com/tomWritesCode)**
+
+
+![raspberryCandy Logo](Artworks/fullLogo.jpg?thumbnail "raspberryCandy Logo")
