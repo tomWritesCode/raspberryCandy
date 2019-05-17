@@ -4,8 +4,8 @@
 	"colors": {
 		"editor.background": "#16161d",
 		"editor.foreground": "#00feff",
-		"editorLineNumber.foreground":"#00feffa8",
-		"editorLineNumber.activeForeground":"#00feff",
+		"editorLineNumber.foreground":"#0051ffb6",
+		"editorLineNumber.activeForeground":"#ff0000",
 		"sideBarTitle.foreground": "#dcbaf9",
 		"button.background": "#dcbaf9",
 		"button.foreground": "#16161d",
@@ -20,7 +20,7 @@
 		"sideBarSectionHeader.background":"#dcbaf9a8",
 		"sideBarSectionHeader.foreground":"#16161d",
 		"sideBarSectionHeader.border": "#00feff",
-		"editorCursor.foreground": "#00feff",
+		"editorCursor.foreground": "#09ff00",
 		"editor.hoverHighlightBackground": "#16161d",
 		"editorGroup.border": "#00feff",
 		"editorGroupHeader.tabsBorder": "#00feff",
@@ -50,7 +50,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#6ee0e0a8"
+				"foreground": "#67cfcfa8"
 			}
 		},
 		{
@@ -90,7 +90,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#00feff"
+				"foreground": "#09ff00"
 			}
 		},
 		{
@@ -107,10 +107,11 @@
 				"punctuation.definition.tag.end.html",
 				"punctuation.section.embedded",
 				"keyword.other.template",
+				
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#1bffb9"
+				"foreground": "#09ff00"
 			}
 		},
 		{
@@ -169,7 +170,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#00feff"
+				"foreground": "#ff00d4"
 			}
 		},
 		{
@@ -185,7 +186,7 @@
 			],
 			"settings": {
 				"fontStyle": "normal",
-				"foreground": "#dcbaf9"
+				"foreground": "#bbff00"
 			}
 		},
 		{
@@ -232,10 +233,11 @@
 			"scope": [
 				"entity.name.module.js",
 				"variable.import.parameter.js",
+				"variable.parameter",
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#f56179"
+				"foreground": "#f7713c"
 			}
 		},
 		{
@@ -245,7 +247,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#f56179"
+				"foreground": "#f7713c"
 			}
 		},
 		{
@@ -398,7 +400,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#eecc8e"
+				"foreground": "#ffa600"
 			}
 		},
 		{
@@ -621,7 +623,7 @@
 				"markup.raw.block"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#000000"
 			}
 		},
 		{
