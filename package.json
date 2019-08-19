@@ -1,7 +1,7 @@
 {
     "name": "raspberrycandy",
     "displayName": "raspberryCandy",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "tomWritesCode",
     "description": "Pastel/Neon colour theme.",
     "author": {
@@ -25,11 +25,16 @@
     "contributes": {
         "themes": [
             {
+                "label": "raspberryCandy - sugarFree",
+                "uiTheme": "vs",
+                "path": "./themes/raspberryCandy-sugarFree.json"
+            },
+            {
                 "label": "raspberryCandy",
                 "uiTheme": "vs-dark",
-                "path": "./themes/raspberryCandy-color-theme.json"
+                "path": "./themes/raspberryCandy.json"
             }
         ]
     },
-    "preview": true
+    "preview": false
 }
