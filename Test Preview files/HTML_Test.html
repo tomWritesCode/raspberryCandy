@@ -3,10 +3,23 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>HTML TEST PAGE</title>
+  <title>raspberryCandy — HTML styling test</title>
+  <link rel="stylesheet" href="CSS_Test.css">
 </head>
 <body>
-  
+  <!-- header with attributes -->
+  <header class="site-header" id="top" data-role="banner">
+    <h1>raspberryCandy</h1>
+    <nav>
+      <a href="https://github.com/tomWritesCode/raspberryCandy" target="_blank">Repo</a>
+    </nav>
+  </header>
+
+  <main class="content">
+    <p>A <strong>pastel / neon</strong> colour theme with <em>accessible</em> contrast.</p>
+    <button type="button" onclick="greet('world')">Say hi</button>
+  </main>
+
+  <script src="JavaScript_Test.js"></script>
 </body>
 </html>

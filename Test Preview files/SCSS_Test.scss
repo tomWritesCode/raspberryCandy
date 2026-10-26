@@ -1,0 +1,29 @@
+// raspberryCandy — SCSS styling test
+$accent: #00feff;
+$pink: #ff60d5;
+$spacing: 8px;
+
+@mixin flex-center($dir: row) {
+  display: flex;
+  align-items: center;
+  flex-direction: $dir;
+}
+
+.card {
+  @include flex-center(column);
+  padding: $spacing * 2;
+  color: $accent;
+
+  &:hover {
+    color: $pink;
+  }
+
+  .title {
+    font-weight: bold;
+    border-bottom: 1px solid rgba($pink, 0.4);
+  }
+}
+
+@each $name, $val in (small: 4px, large: 16px) {
+  .pad-#{$name} { padding: $val; }
+}

@@ -2,34 +2,38 @@
 	"name": "rasberryCandy",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#160021",
+		"editor.background": "#16161d",
 		"editor.foreground": "#00feff",
 		"editorLineNumber.foreground":"#dcbaf9a8",
 		"editorLineNumber.activeForeground": "#00feff",
 		"sideBarTitle.foreground": "#dcbaf9",
 		"button.background": "#dcbaf9",
-		"button.foreground": "#160021",
+		"button.foreground": "#16161d",
 		"button.hoverBackground": "#dcbaf9a8",
-		"activityBar.background": "#160021",
+		"activityBar.background": "#16161d",
 		"activityBar.dropBackground": "#dcbaf9",
-		"activityBar.foreground": "#00feff",
+		"activityBar.foreground": "#16161d",
+		"activityBar.activeBackground": "#dcbaf9",
+		"activityBar.activeBorder": "#dcbaf9",
+		"activityBar.inactiveForeground": "#00feffa8",
+		"modernActivityBarItem.activeForeground": "#16161d",
 		"activityBarBadge.background": "#dcbaf9",
-		"activityBarBadge.foreground": "#160021",
-		"sideBar.background": "#160021",
-		"sideBar.border": "#00feff",
-		"sideBarSectionHeader.background":"#dcbaf9a8",
-		"sideBarSectionHeader.foreground":"#160021",
-		"sideBarSectionHeader.border": "#00feff",
+		"activityBarBadge.foreground": "#16161d",
+		"sideBar.background": "#16161d",
+		"sideBar.border": "#00feff40",
+		"sideBarSectionHeader.background":"#16161d",
+		"sideBarSectionHeader.foreground":"#dcbaf9",
+		"sideBarSectionHeader.border": "#00feff40",
 		"editorCursor.foreground": "#dcbaf9",
 		"editor.hoverHighlightBackground": "#00feff",
-		"editorGroup.border": "#00feff",
-		"editorGroupHeader.tabsBorder": "#00feff",
-		"editorGroupHeader.tabsBackground": "#160021",
+		"editorGroup.border": "#00feff40",
+		"editorGroupHeader.tabsBorder": "#00feff40",
+		"editorGroupHeader.tabsBackground": "#16161d",
 		"tab.activeBackground": "#dcbaf9",
-		"tab.activeForeground": "#160021",
-		"tab.inactiveBackground": "#160021",
+		"tab.activeForeground": "#16161d",
+		"tab.inactiveBackground": "#16161d",
 		"tab.inactiveForeground": "#00feff",
-		"tab.border": "#00feff",
+		"tab.border": "#00feff40",
 		"scrollbarSlider.activeBackground": "#00feff",
 		"scrollbarSlider.background": "#00feff33",
 		"scrollbarSlider.hoverBackground": "#00feff80"
@@ -39,7 +43,7 @@
 		{
 			"settings": {
 				"foreground": "#1bffb9",
-				"background": "#160021"
+				"background": "#16161d"
 			}
 		},
 		{
@@ -498,9 +502,7 @@
 			"scope": [
 				"text.html.markdown meta.dummy.line-break"
 			],
-			"settings": {
-				"foreground": ""
-			}
+			"settings": {}
 		},
 		{
 			"name": "Markdown - Heading",
@@ -565,8 +567,7 @@
 				"markup.strike"
 			],
 			"settings": {
-				"fontStyle": "strike",
-				"foreground": ""
+				"fontStyle": "strikethrough"
 			}
 		},
 		{
@@ -585,8 +586,7 @@
 				"markup.quote"
 			],
 			"settings": {
-				"fontStyle": "italic",
-				"foreground": ""
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -631,7 +631,7 @@
 				"markup.raw.block.fenced.markdown"
 			],
 			"settings": {
-				"foreground": "#00000050"
+				"foreground": "#EEFFFF"
 			}
 		},
 		{
@@ -640,7 +640,7 @@
 				"punctuation.definition.fenced.markdown"
 			],
 			"settings": {
-				"foreground": "#00000050"
+				"foreground": "#EEFFFF"
 			}
 		},
 		{

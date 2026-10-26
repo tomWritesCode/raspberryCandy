@@ -1,0 +1,22 @@
+{
+  "name": "raspberryCandy",
+  "version": "0.0.7",
+  "enabled": true,
+  "retries": 3,
+  "theme": {
+    "type": "dark",
+    "palette": {
+      "accent": "#00feff",
+      "pink": "#ff60d5",
+      "nested": {
+        "level": 3,
+        "values": [1, 2, 3],
+        "deeper": {
+          "level": 4,
+          "label": "contrast check"
+        }
+      }
+    }
+  },
+  "tags": ["pastel", "neon", "accessible"]
+}

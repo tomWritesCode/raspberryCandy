@@ -1,12 +1,28 @@
-h1{
-  border: 1;
+/* raspberryCandy — CSS styling test */
+:root {
+  --accent: #00feff;
+  --pink: #ff60d5;
+  --bg: #160021;
 }
 
-.testDiv{
-  border: 1;
+h1 {
+  color: var(--accent);
+  font-size: 2rem;
+  border-bottom: 1px solid var(--pink);
 }
 
-#test{
-  border: 1;
-  color: rgb(red, green, blue)
+.testDiv {
+  display: flex;
+  padding: 8px 12px;
+  background: rgba(220, 186, 249, 0.1);
+  transition: color 0.2s ease-in-out;
+}
+
+#test:hover {
+  color: var(--pink);
+  cursor: pointer;
+}
+
+@media (max-width: 600px) {
+  .testDiv { flex-direction: column; }
 }
